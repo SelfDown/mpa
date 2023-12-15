@@ -1,0 +1,16 @@
+{
+  "index": {
+    "enable": true,
+    "title": "测试页面",
+    "children": {
+      "dialog":{
+        "enable": true,
+        "title": "我是对话框"
+      }
+    }
+  },
+  "home": {
+    "enable": true,
+    "title": "首页"
+  }
+}

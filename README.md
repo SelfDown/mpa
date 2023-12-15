@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-
+多页面应用，支持二级路由
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
