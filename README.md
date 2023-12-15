@@ -1,4 +1,4 @@
-# mpa-test2
+# mpa
 
 ## Project setup
 ```
@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 多页面应用，支持二级路由
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+src/pages.json 配置路由，src/pages/文件夹作为页面
+
